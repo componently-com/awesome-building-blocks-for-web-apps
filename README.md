@@ -4,19 +4,20 @@
 
 <img src="resources/awesome.svg" alt="awesome" width="200"/>
 
-## Content
+## Categories
 
-- [UI Elements](#ui-elements)
-- [Auth](#auth)
-- [Social](#social)
-- [Notification](#notification)
-- [Chat Bot](#chat-bot)
-- [Chat](#chat)
-- [Media](#media)
-- [Telecommunication](#telecommunication)
-- [Privacy](#privacy)
-- [Full Stack](#full-stack)
-- [Other Awesomeness](#other-awesomeness)
+- [**UI Elements**](#ui-elements)
+- [**Auth**](#auth)
+- [**Social**](#social)
+- [**Notification**](#notification)
+- [**Chat Bot**](#chat-bot)
+- [**Chat**](#chat)
+- [**Media**](#media)
+- [**Form**](#form)
+- [**Telecommunication**](#telecommunication)
+- [**Privacy**](#privacy)
+- [**Full Stack**](#full-stack)
+- [**Other Awesomeness**](#other-awesomeness)
 
 #### UI Elements
 
