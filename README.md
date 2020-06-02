@@ -36,6 +36,7 @@
 - [Design Revision / Shards Pro](https://designrevision.com)
 - [Froala](https://froala.com/design-blocks/)
 - [Themesberg](https://themesberg.com)
+- [Treact](https://treact.owaiskhan.me/)
 
 #### Auth
 
@@ -67,6 +68,9 @@
 #### Media
 - [Mux](https://mux.com/)
 - [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/)
+
+#### Form
+- [Static Forms](https://www.staticforms.xyz/)
 
 #### Telecommunication
 - [Vonage](https://www.vonage.com/)
