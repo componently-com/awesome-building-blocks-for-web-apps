@@ -1,6 +1,6 @@
 # Awesome Components
 
-#### Building blocks for web applications - [componently.com](https://www.componently.com/)
+#### Building blocks for web applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)
 
 <img src="resources/awesome.svg" alt="awesome" width="200"/>
 
