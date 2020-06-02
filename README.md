@@ -21,6 +21,9 @@
 - [**Change log**](#change-log)
 - [**Telecommunication**](#telecommunication)
 - [**Privacy**](#privacy)
+- [**Social Media**](#social-media)
+- [**Sales Funnel**](#sales-funnel)
+- [**Search**](#search)
 - [**Full Stack**](#full-stack)
 - [**Other Awesomeness**](#other-awesomeness)
 
@@ -73,6 +76,9 @@
 
 #### Monitoring
 - [Sentry](https://sentry.io/for/vue)
+- [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting)
+- [Honeybadger](https://www.honeybadger.io/)
+- [Rollbar](https://rollbar.com/)
 
 #### Content Management
 - [Contentful](https://www.contentful.com)
@@ -104,6 +110,21 @@
 
 #### Privacy
 - [Skyflow](https://www.skyflow.com/)
+
+#### Social Media
+- [AddThis](https://www.addthis.com/)
+- [ShareThis](https://sharethis.com/)
+- [AddToAny](https://www.addtoany.com/)
+- [WarefarePlugins](https://warfareplugins.com/)
+
+#### Sales Funnel
+
+- [Click Funnels](https://www.clickfunnels.com/)
+- [CartFlows](https://cartflows.com/)
+
+#### Search
+
+- [Algolia](https://www.algolia.com/)
 
 #### Full Stack
 - [Appseed](https://appseed.us/app-generator)
