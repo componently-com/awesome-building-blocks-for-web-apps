@@ -17,6 +17,8 @@
 - [**Content Management**](#content-management)
 - [**Media**](#media)
 - [**Form**](#form)
+- [**Marketing**](#marketing)
+- [**Change log**](#change-log)
 - [**Telecommunication**](#telecommunication)
 - [**Privacy**](#privacy)
 - [**Full Stack**](#full-stack)
@@ -38,6 +40,12 @@
 - [Froala](https://froala.com/design-blocks/)
 - [Themesberg](https://themesberg.com)
 - [Treact](https://treact.owaiskhan.me/)
+
+#### Exit Intent Popup
+- [Wisepops](https://wisepops.com/)
+- [Listagram](https://www.listagram.com)
+- [Poptin](https://www.poptin.com)
+- [Sleeknote's Exit Intent Popup](https://sleeknote.com/exit-intent-popup)
 
 #### Auth
 - [Auth0](https://auth0.com/)
@@ -75,6 +83,21 @@
 
 #### Form
 - [Static Forms](https://www.staticforms.xyz/)
+
+#### Marketing
+- [TrustPulse](https://trustpulse.com/)
+
+#### Change log
+- [Beamer](https://www.getbeamer.com)
+- [Changelogfy](https://changelogfy.com/)
+- [Changefeed](https://changefeed.app/)
+- [Release notes](https://releasenotes.io)
+- [Sugester](https://sugester.com)
+- [Headway](https://headwayapp.co/)
+- [Canny's Changelog](https://canny.io/features/changelog)
+- [ProductFlare's Changelog](https://www.productflare.com/changelog)
+- [ProductFeed](https://productfeed.app)
+- [Changes](https://changes.blue)
 
 #### Telecommunication
 - [Vonage](https://www.vonage.com/)
