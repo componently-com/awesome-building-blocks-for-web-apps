@@ -7,11 +7,14 @@
 ## Categories
 
 - [**UI Elements**](#ui-elements)
+- [**Exit Intent Popup**](#exit-intent-popup)
 - [**Auth**](#auth)
 - [**Social**](#social)
 - [**Notification**](#notification)
 - [**Chat Bot**](#chat-bot)
 - [**Chat**](#chat)
+- [**Monitoring**](#monitoring)
+- [**Content Management**](#content-management)
 - [**Media**](#media)
 - [**Form**](#form)
 - [**Telecommunication**](#telecommunication)
@@ -24,13 +27,11 @@
 - [Tailwind UI](https://tailwindui.com/)
 - [Webix](https://webix.com/)
 - [Elasticpath](https://www.elasticpath.com/)
-- [Contentful](https://www.contentful.com)
 - [Highcharts](https://www.highcharts.com/)
 - [Webatoms](https://www.webatoms.in)
 - [Creative Tim](https://www.creative-tim.com/)
 - [Syncfusion](https://www.syncfusion.com/)
 - [CureUI](https://coreui.io/pro/vue)
-- [Sentry](https://sentry.io/for/vue)
 - [UIfort](https://uifort.com/)
 - [Sematic UI](https://semantic-ui.com/)
 - [Design Revision / Shards Pro](https://designrevision.com)
@@ -39,7 +40,6 @@
 - [Treact](https://treact.owaiskhan.me/)
 
 #### Auth
-
 - [Auth0](https://auth0.com/)
 - [Firebase](https://firebase.google.com)
 - [Okta](https://www.okta.com/)
@@ -49,11 +49,9 @@
 - [SecureAuth](https://www.secureauth.com/products/identity-platform)
 
 #### Notification
-
 - [Notific](https://notific.io/)
 
 #### Social
-
 - [Stream](https://getstream.io/)
 -	[GetSocial](https://www.getsocial.im)
 
@@ -64,6 +62,12 @@
 
 #### Chat
 - [Daily.co](https://www.daily.co/)
+
+#### Monitoring
+- [Sentry](https://sentry.io/for/vue)
+
+#### Content Management
+- [Contentful](https://www.contentful.com)
 
 #### Media
 - [Mux](https://mux.com/)
