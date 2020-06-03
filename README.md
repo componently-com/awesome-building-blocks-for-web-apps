@@ -1,4 +1,4 @@
-# Awesome Components
+# Awesome Web Building Blocks
 
 #### Building blocks for web applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)
 
