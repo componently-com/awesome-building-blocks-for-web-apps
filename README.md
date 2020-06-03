@@ -9,6 +9,7 @@
 - [**UI Elements**](#ui-elements)
 - [**Exit Intent Popup**](#exit-intent-popup)
 - [**Auth**](#auth)
+- [**Booking**](#booking)
 - [**Social**](#social)
 - [**Notification**](#notification)
 - [**Chat Bot**](#chat-bot)
@@ -59,6 +60,23 @@
 - [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/#security)
 - [AWS cognito](https://aws.amazon.com/cognito/)
 - [SecureAuth](https://www.secureauth.com/products/identity-platform)
+
+#### Booking
+- [Calendly](https://calendly.com/)
+- [Zoho Bookings](https://www.zoho.com/bookings/)
+- [Acuity Scheduling](https://acuityscheduling.com/)
+- [10to8](https://10to8.com/)
+- [SuperSaaS](https://www.supersaas.com/)
+- [SimplyBook.Me](https://simplybook.me/)
+- [OnceHub](https://www.oncehub.com/)
+- [Wix Bookings](https://www.wix.com/online/booking-system)
+- [YouCanBookMe](https://youcanbook.me/)
+- [OnSched](https://www.onsched.com/)
+- [vCita](https://vcita.com/)
+- [AppointmentPlus](https://www.appointmentplus.com/)
+- [Setster](https://www.setster.com/)
+- [Booxi](https://www.booxi.com/)
+- [BookitLive](https://www.bookitlive.net/)
 
 #### Notification
 - [Notific](https://notific.io/)
