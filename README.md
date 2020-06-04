@@ -4,29 +4,33 @@
 
 <img src="resources/awesome.svg" alt="awesome" width="200"/>
 
-## Categories
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
 
-- [**UI Elements**](#ui-elements)
-- [**Exit Intent Popup**](#exit-intent-popup)
-- [**Auth**](#auth)
-- [**Booking**](#booking)
-- [**Social**](#social)
-- [**Notification**](#notification)
-- [**Chat Bot**](#chat-bot)
-- [**Chat**](#chat)
-- [**Monitoring**](#monitoring)
-- [**Content Management**](#content-management)
-- [**Media**](#media)
-- [**Form**](#form)
-- [**Marketing**](#marketing)
-- [**Change log**](#change-log)
-- [**Telecommunication**](#telecommunication)
-- [**Privacy**](#privacy)
-- [**Social Media**](#social-media)
-- [**Sales Funnel**](#sales-funnel)
-- [**Search**](#search)
-- [**Feature flags**](#feature-flags)
-- [**Other Awesomeness**](#other-awesomeness)
+- [UI Elements](#ui-elements)
+- [Exit Intent Popup](#exit-intent-popup)
+- [Auth](#auth)
+- [Booking](#booking)
+- [Notification](#notification)
+- [Social](#social)
+- [Chat Bot](#chat-bot)
+- [Chat](#chat)
+- [Monitoring](#monitoring)
+- [Content Management](#content-management)
+- [Media](#media)
+- [Form](#form)
+- [Marketing](#marketing)
+- [Change log](#change-log)
+- [Telecommunication](#telecommunication)
+- [Privacy](#privacy)
+- [Social Media](#social-media)
+- [Sales Funnel](#sales-funnel)
+- [Search](#search)
+- [Feature flags](#feature-flags)
+- [Other Awesomeness](#other-awesomeness)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 #### UI Elements
 
