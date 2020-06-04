@@ -107,6 +107,7 @@
 
 #### Form
 - [Static Forms](https://www.staticforms.xyz/)
+- [Form King](https://www.formking.io/)
 
 #### Marketing
 - [TrustPulse](https://trustpulse.com/)
