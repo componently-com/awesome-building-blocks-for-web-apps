@@ -49,10 +49,10 @@
 - [Treact](https://treact.owaiskhan.me/) - Free Modern React Templates for every need.
 
 #### Exit Intent Popup
-- [Wisepops](https://wisepops.com/)
-- [Listagram](https://www.listagram.com)
-- [Poptin](https://www.poptin.com)
-- [Sleeknote's Exit Intent Popup](https://sleeknote.com/exit-intent-popup)
+- [Wisepops](https://wisepops.com/) - Create beautiful and contextual popups, banners and bars for your mobile and desktop visitors.
+- [Listagram](https://www.listagram.com) - Interactive opt-in form in less than 30 minutes.
+- [Poptin](https://www.poptin.com) - Engaging popups and forms for your website in minutes.
+- [Sleeknote's Exit Intent Popup](https://sleeknote.com/exit-intent-popup) - Create High-Converting Exit-Intent Popups.
 
 #### Auth
 - [Auth0](https://auth0.com/)
