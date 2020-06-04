@@ -55,13 +55,13 @@
 - [Sleeknote's Exit Intent Popup](https://sleeknote.com/exit-intent-popup) - Create High-Converting Exit-Intent Popups.
 
 #### Auth
-- [Auth0](https://auth0.com/)
-- [Firebase](https://firebase.google.com)
-- [Okta](https://www.okta.com/)
-- [Onelogin](https://www.onelogin.com/)
-- [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/#security)
-- [AWS cognito](https://aws.amazon.com/cognito/)
-- [SecureAuth](https://www.secureauth.com/products/identity-platform)
+- [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications.
+- [Firebase](https://firebase.google.com) - Build apps fast, without managing infrastructure.
+- [Okta](https://www.okta.com/) - One trusted platform to secure every identity in your organization, including your workforce and customers.
+- [Onelogin](https://www.onelogin.com/) - Securing the Global Remote Workforce.
+- [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/#security) - Universal platform to manage and secure identities.
+- [AWS cognito](https://aws.amazon.com/cognito/) - Simple and Secure User Sign-Up, Sign-In, and Access Control.
+- [SecureAuth](https://www.secureauth.com/products/identity-platform) - Better identity security. Better user experience.
 
 #### Booking
 - [Calendly](https://calendly.com/)
