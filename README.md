@@ -2,7 +2,7 @@
 
 #### Building blocks for web applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)
 
-<img src="resources/awesome.svg" alt="awesome" width="200"/>
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
