@@ -32,7 +32,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#### UI Elements
+## UI Elements
 
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS.
 - [Webix](https://webix.com/) - JavaScript UI library and framework for speeding up web development.
@@ -48,13 +48,13 @@
 - [Themesberg](https://themesberg.com) - Premium bootstrap templates, themes and UI kits used by over 2620 web developers.
 - [Treact](https://treact.owaiskhan.me/) - Free modern react templates for every need.
 
-#### Exit Intent Popup
+## Exit Intent Popup
 - [Wisepops](https://wisepops.com/) - Create beautiful and contextual popups, banners and bars for your mobile and desktop visitors.
 - [Listagram](https://www.listagram.com) - Interactive opt-in form in less than 30 minutes.
 - [Poptin](https://www.poptin.com) - Engaging popups and forms for your website in minutes.
 - [Sleeknote's Exit Intent Popup](https://sleeknote.com/exit-intent-popup) - Create high-converting exit-intent popups.
 
-#### Auth
+## Auth
 - [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications.
 - [Firebase](https://firebase.google.com) - Build apps fast, without managing infrastructure.
 - [Okta](https://www.okta.com/) - One trusted platform to secure every identity in your organization, including your workforce and customers.
@@ -63,7 +63,7 @@
 - [AWS cognito](https://aws.amazon.com/cognito/) - Simple and secure user sign-up, sign-in, and access control.
 - [SecureAuth](https://www.secureauth.com/products/identity-platform) - Better identity security, better user experience.
 
-#### Booking
+## Booking
 - [Calendly](https://calendly.com/) - Schedule meetings without the back-and-forth emails.
 - [Zoho Bookings](https://www.zoho.com/bookings/) - Online scheduler for offering the best consultations.
 - [Acuity Scheduling](https://acuityscheduling.com/) - Online assistant, working 24/7 to fill your schedule.
@@ -80,41 +80,41 @@
 - [Booxi](https://www.booxi.com/) - Smart booking solutions that work for everyone.
 - [BookitLive](https://www.bookitlive.net/) - Online booking software for businesses big and small.
 
-#### Notification
+## Notification
 - [Notific](https://notific.io/) - Powerful, complete notification system.
 
-#### Social
+## Social
 - [Stream](https://getstream.io/) - Enterprise grade feed & chat APIs.
 -	[GetSocial](https://www.getsocial.im) - The ultimate way to boost engagement, retention and acquisition for mobile apps.
 
-#### Chat Bot
+## Chat Bot
 - [Fresh chat](https://www.freshworks.com/live-chat-software/) - Engage and delight your customers wherever they are - web, mobile and social messengers.
 - [Tiledesh](https://www.tiledesk.com/) - AI-powered live chat.
 
-#### Chat
+## Chat
 - [Daily.co](https://www.daily.co/) - Ship 1-click video chat faster and smarter.
 
-#### Monitoring
+## Monitoring
 - [Sentry](https://sentry.io/for/vue) - Debug Vue apps and prevent crashes across your entire stack.
 - [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting) - Monitor and fix production errors with ease.
 - [Honeybadger](https://www.honeybadger.io/) - Zero-instrumentation, 360 degree coverage of errors, outages and service degradation.
 - [Rollbar](https://rollbar.com/) - Deploy with confidence, more often.
 
-#### Content Management
+## Content Management
 - [Contentful](https://www.contentful.com) - The content platform to build digital at scale.
 
-#### Media
+## Media
 - [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
 - [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/) - Client-side JavaScript library which allows you to create a new player in Spotify Connect and play any audio track from Spotify in the browser via Encrypted Media Extensions.
 
-#### Form
+## Form
 - [Static Forms](https://www.staticforms.xyz/) - Simple HTML form for your website.
 - [Form King](https://www.formking.io/) - Easy, fast, secure forms for static websites.
 
-#### Marketing
+## Marketing
 - [TrustPulse](https://trustpulse.com/) - Grow your business with honest marketing.
 
-#### Change log
+## Change log
 - [Beamer](https://www.getbeamer.com) - Update and engage users effortlessly.
 - [Changelogfy](https://changelogfy.com/) - Changelogfy is a software and product release notes tool.
 - [Changefeed](https://changefeed.app/) - A beautiful changelog for your product in seconds.
@@ -125,32 +125,32 @@
 - [ProductFeed](https://productfeed.app) - Retain users and keep them updated.
 - [Changes](https://changes.blue) - Keep users in the loop about product updates with a beautiful, modern changelog that grows with you.
 
-#### Telecommunication
+## Telecommunication
 - [Vonage](https://www.vonage.com/) - Flexible and scalable voice, messaging, video and data capabilities across Unified Communications, Contact Centers and Communications APIs.
 
-#### Privacy
+## Privacy
 - [Skyflow](https://www.skyflow.com/) - API for privacy.
 
-#### Social Media
+## Social Media
 - [AddThis](https://www.addthis.com/) - Turn your visitors into engaged customers.
 - [ShareThis](https://sharethis.com/) - Grow your audience and keep them engaged.
 - [AddToAny](https://www.addtoany.com/) - Universal sharing.
 - [WarefarePlugins](https://warfareplugins.com/) - Social sharing for WordPress.
 
-#### Sales Funnel
+## Sales Funnel
 - [Click Funnels](https://www.clickfunnels.com/) - Create beautiful sales funnels that convert your visitors into leads and then customers.
 - [CartFlows](https://cartflows.com/) - Get more leads, increase conversions, & maximize profits.
 
-#### Search
+## Search
 - [Algolia](https://www.algolia.com/) - Make every search releavnt, immersive, optimized, engaing, intelligent, personalized, business-driven, etc.
 
-#### Feature flags
+## Feature flags
 - [Optimizely's Rollouts](https://www.optimizely.com/rollouts) - Ship faster and prove value with less risk.
 - [LaunchDarkly](https://launchdarkly.com/) - Manage features at any scale.
 - [Rollout](https://rollout.io/) - Progressively deliver features to your users with confidence, in real-time.
 - [Split](https://www.split.io/) - Confidently release features as fast as you develop them.
 
-#### Related awesome-lists
+## Related awesome-lists
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
