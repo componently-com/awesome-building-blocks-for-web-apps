@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[![](resouces/logo.png)](https://www.componently.com/?utm_source=github-awesome-components-logo)
+[![](resources/logo.png)](https://www.componently.com/?utm_source=github-awesome-components-logo)
 
 **Curated list of Building Blocks for Web Applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)**
 
