@@ -28,7 +28,7 @@
 - [Sales Funnel](#sales-funnel)
 - [Search](#search)
 - [Feature flags](#feature-flags)
-- [Other Awesomeness](#other-awesomeness)
+- [Related awesome-lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -82,78 +82,76 @@ working 24/7 to fill your schedule.
 - [BookitLive](https://www.bookitlive.net/) - Online booking software for businesses big and small.
 
 #### Notification
-- [Notific](https://notific.io/)
+- [Notific](https://notific.io/) - Powerful, complete notification system.
 
 #### Social
-- [Stream](https://getstream.io/)
--	[GetSocial](https://www.getsocial.im)
+- [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
+-	[GetSocial](https://www.getsocial.im) - The ultimate way to boost Engagement, Retention and Acquisition for mobile apps.
 
 #### Chat Bot
-- [Fresh chat](https://www.freshworks.com/live-chat-software/)
-- [Tiledesh](https://www.tiledesk.com/)
-- [Spoonacular](https://spoonacular.com/chatbot)
+- [Fresh chat](https://www.freshworks.com/live-chat-software/) - Engage and delight your customers wherever they are - web, mobile and social messengers.
+- [Tiledesh](https://www.tiledesk.com/) - AI-powered Live Chat.
 
 #### Chat
-- [Daily.co](https://www.daily.co/)
+- [Daily.co](https://www.daily.co/) - Ship 1-click video chat faster and smarter.
 
 #### Monitoring
-- [Sentry](https://sentry.io/for/vue)
-- [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting)
-- [Honeybadger](https://www.honeybadger.io/)
-- [Rollbar](https://rollbar.com/)
+- [Sentry](https://sentry.io/for/vue) - Debug Vue apps and prevent crashes across your entire stack.
+- [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting) - Monitor and fix production errors with ease.
+- [Honeybadger](https://www.honeybadger.io/) - Zero-instrumentation, 360 degree coverage of errors, outages and service degradation.
+- [Rollbar](https://rollbar.com/) - Deploy with confidence, more often.
 
 #### Content Management
-- [Contentful](https://www.contentful.com)
+- [Contentful](https://www.contentful.com) - The content platform to build digital at scale.
 
 #### Media
-- [Mux](https://mux.com/)
-- [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/)
+- [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
+- [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/) - Client-side JavaScript library which allows you to create a new player in Spotify Connect and play any audio track from Spotify in the browser via Encrypted Media Extensions.
 
 #### Form
-- [Static Forms](https://www.staticforms.xyz/)
-- [Form King](https://www.formking.io/)
+- [Static Forms](https://www.staticforms.xyz/) - Simple HTML form for your website.
+- [Form King](https://www.formking.io/) - Easy, fast, secure forms for static websites.
 
 #### Marketing
-- [TrustPulse](https://trustpulse.com/)
+- [TrustPulse](https://trustpulse.com/) - Grow Your Business With Honest Marketing.
 
 #### Change log
-- [Beamer](https://www.getbeamer.com)
-- [Changelogfy](https://changelogfy.com/)
-- [Changefeed](https://changefeed.app/)
-- [Release notes](https://releasenotes.io)
-- [Sugester](https://sugester.com)
-- [Headway](https://headwayapp.co/)
-- [Canny's Changelog](https://canny.io/features/changelog)
-- [ProductFlare's Changelog](https://www.productflare.com/changelog)
-- [ProductFeed](https://productfeed.app)
-- [Changes](https://changes.blue)
+- [Beamer](https://www.getbeamer.com) - Update and engage users effortlessly.
+- [Changelogfy](https://changelogfy.com/) - Changelogfy is a Software and Product Release Notes Tool.
+- [Changefeed](https://changefeed.app/) - A beautiful changelog for your product in seconds.
+- [Release notes](https://releasenotes.io) - Craft beautiful, engaging release notes to keep customers and stakeholders up to date, or as a marketing tool to convert more.
+- [Headway](https://headwayapp.co/) - Easiest way to keep your customers in the loop about your product.
+- [Canny's Changelog](https://canny.io/features/changelog) - Announce product updates.
+- [ProductFlare's Changelog](https://www.productflare.com/changelog) - Keep users updated, engaged and increase user retention with real-time product updates.
+- [ProductFeed](https://productfeed.app) - Retain Users and Keep Them Updated.
+- [Changes](https://changes.blue) - Keep users in the loop about product updates with a beautiful, modern changelog that grows with you.
 
 #### Telecommunication
-- [Vonage](https://www.vonage.com/)
+- [Vonage](https://www.vonage.com/) - Flexible and scalable voice, messaging, video and data capabilities across Unified Communications, Contact Centers and Communications APIs.
 
 #### Privacy
-- [Skyflow](https://www.skyflow.com/)
+- [Skyflow](https://www.skyflow.com/) - API for privacy.
 
 #### Social Media
-- [AddThis](https://www.addthis.com/)
-- [ShareThis](https://sharethis.com/)
-- [AddToAny](https://www.addtoany.com/)
-- [WarefarePlugins](https://warfareplugins.com/)
+- [AddThis](https://www.addthis.com/) - Turn your visitors into engaged customers.
+- [ShareThis](https://sharethis.com/) - Grow your audience and keep them engaged.
+- [AddToAny](https://www.addtoany.com/) - Universal sharing.
+- [WarefarePlugins](https://warfareplugins.com/) - Social Sharing for WordPress.
 
 #### Sales Funnel
-- [Click Funnels](https://www.clickfunnels.com/)
-- [CartFlows](https://cartflows.com/)
+- [Click Funnels](https://www.clickfunnels.com/) - Create Beautiful Sales Funnels That Convert Your Visitors Into Leads And Then Customers.
+- [CartFlows](https://cartflows.com/) - Get More Leads, Increase Conversions, & Maximize Profits.
 
 #### Search
-- [Algolia](https://www.algolia.com/)
+- [Algolia](https://www.algolia.com/) - Make every search releavnt, immersive, optimized, engaing, intelligent, personalized, business-driven, etc.
 
 #### Feature flags
-- [Optimizely's Rollouts](https://www.optimizely.com/rollouts/?ref=nav)
-- [LaunchDarkly](https://launchdarkly.com/)
-- [Rollout](https://rollout.io/)
-- [Split](https://www.split.io/)
+- [Optimizely's Rollouts](https://www.optimizely.com/rollouts) - Ship faster and prove value with less risk.
+- [LaunchDarkly](https://launchdarkly.com/) - Manage Features at Any Scale.
+- [Rollout](https://rollout.io/) - Progressively deliver features to your users with confidence, in real-time.
+- [Split](https://www.split.io/) - Confidently release features as fast as you develop them.
 
-#### Other Awesomeness
+#### Related awesome-lists
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
