@@ -1,0 +1,19 @@
+name: CI
+
+on: [push]
+
+env:
+  node_version: "12.x"
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v1
+    - name: Setup Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ env.node_version }}
+    - name: Lint
+      run: npx awesome-lint
