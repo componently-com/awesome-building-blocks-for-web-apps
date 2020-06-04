@@ -1,4 +1,4 @@
-# Awesome Web Building Blocks [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Building Blocks for Web [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 **Curated list of Building Blocks for Web Applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)**
 
