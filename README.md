@@ -76,7 +76,7 @@ working 24/7 to fill your schedule.
 - [YouCanBookMe](https://youcanbook.me/) - Simple online scheduling for your team.
 - [OnSched](https://www.onsched.com/) - Scheduling API for Marketplaces & Applications, who want to grow faster.
 - [vCita](https://vcita.com/) - Manage clients, appointments & payments from one single app.
-- [AppointmentPlus](https://www.appointmentplus.com/) - Appointment Scheduling Software That’s Built to Scale.
+- [AppointmentPlus](https://www.appointmentplus.com/) - Appointment Scheduling Software That's Built to Scale.
 - [Setster](https://www.setster.com/) - Transforming your scheduling challenges into actionable logic with a friendly user experience.
 - [Booxi](https://www.booxi.com/) - Smart booking solutions that work for everyone.
 - [BookitLive](https://www.bookitlive.net/) - Online booking software for businesses big and small.
