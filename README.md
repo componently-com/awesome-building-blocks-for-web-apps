@@ -64,21 +64,22 @@
 - [SecureAuth](https://www.secureauth.com/products/identity-platform) - Better identity security. Better user experience.
 
 #### Booking
-- [Calendly](https://calendly.com/)
-- [Zoho Bookings](https://www.zoho.com/bookings/)
-- [Acuity Scheduling](https://acuityscheduling.com/)
-- [10to8](https://10to8.com/)
-- [SuperSaaS](https://www.supersaas.com/)
-- [SimplyBook.Me](https://simplybook.me/)
-- [OnceHub](https://www.oncehub.com/)
-- [Wix Bookings](https://www.wix.com/online/booking-system)
-- [YouCanBookMe](https://youcanbook.me/)
-- [OnSched](https://www.onsched.com/)
-- [vCita](https://vcita.com/)
-- [AppointmentPlus](https://www.appointmentplus.com/)
-- [Setster](https://www.setster.com/)
-- [Booxi](https://www.booxi.com/)
-- [BookitLive](https://www.bookitlive.net/)
+- [Calendly](https://calendly.com/) - Schedule meetings without the back-and-forth emails.
+- [Zoho Bookings](https://www.zoho.com/bookings/) - Online scheduler for offering the best consultations.
+- [Acuity Scheduling](https://acuityscheduling.com/) - Online assistant,
+working 24/7 to fill your schedule.
+- [10to8](https://10to8.com/) - Making appointments happen.
+- [SuperSaaS](https://www.supersaas.com/) - Appointment Scheduling for Every Situation.
+- [SimplyBook.Me](https://simplybook.me/) - Online Booking System for all service based industries.
+- [OnceHub](https://www.oncehub.com/) - Schedule meetings without the back-and-forth.
+- [Wix Bookings](https://www.wix.com/online/booking-system) - Showcase your services, get booked and paid online, manage everything all from one place.
+- [YouCanBookMe](https://youcanbook.me/) - Simple online scheduling for your team.
+- [OnSched](https://www.onsched.com/) - Scheduling API for Marketplaces & Applications, who want to grow faster.
+- [vCita](https://vcita.com/) - Manage clients, appointments & payments from one single app.
+- [AppointmentPlus](https://www.appointmentplus.com/) - Appointment Scheduling Software That’s Built to Scale.
+- [Setster](https://www.setster.com/) - Transforming your scheduling challenges into actionable logic with a friendly user experience.
+- [Booxi](https://www.booxi.com/) - Smart booking solutions that work for everyone.
+- [BookitLive](https://www.bookitlive.net/) - Online booking software for businesses big and small.
 
 #### Notification
 - [Notific](https://notific.io/)
