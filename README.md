@@ -34,20 +34,19 @@
 
 #### UI Elements
 
-- [Tailwind UI](https://tailwindui.com/)
-- [Webix](https://webix.com/)
-- [Elasticpath](https://www.elasticpath.com/)
-- [Highcharts](https://www.highcharts.com/)
-- [Webatoms](https://www.webatoms.in)
-- [Creative Tim](https://www.creative-tim.com/)
-- [Syncfusion](https://www.syncfusion.com/)
-- [CureUI](https://coreui.io/pro/vue)
-- [UIfort](https://uifort.com/)
-- [Sematic UI](https://semantic-ui.com/)
-- [Design Revision / Shards Pro](https://designrevision.com)
-- [Froala](https://froala.com/design-blocks/)
-- [Themesberg](https://themesberg.com)
-- [Treact](https://treact.owaiskhan.me/)
+- [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS.
+- [Webix](https://webix.com/) - JavaScript UI library and framework for speeding up web development.
+- [Highcharts](https://www.highcharts.com/) - Make your data come alive.
+- [Webatoms](https://www.webatoms.in) - JavaScript bridge for Xamarin.Forms.
+- [Creative Tim](https://www.creative-tim.com/) - Fully Coded UI Tools to create web and mobile apps.
+- [Syncfusion](https://www.syncfusion.com/) - UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps.
+- [CureUI](https://coreui.io/pro/vue) - Premium Vue.js Admin Template.
+- [UIfort](https://uifort.com/) - UI Design Systems to improve productivity.
+- [Sematic UI](https://semantic-ui.com/) - User Interface is the language of the web.
+- [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Create amazing websites in minutes.
+- [Froala Design Blocks](https://froala.com/design-blocks/) - Over 170 responsive design blocks ready to be used in your web or mobile apps.
+- [Themesberg](https://themesberg.com) - Premium Bootstrap Templates, Themes and UI Kits used by over 2620 web developers.
+- [Treact](https://treact.owaiskhan.me/) - Free Modern React Templates for every need.
 
 #### Exit Intent Popup
 - [Wisepops](https://wisepops.com/)
