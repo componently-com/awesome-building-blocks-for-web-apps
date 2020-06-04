@@ -19,7 +19,7 @@ You'll need a [GitHub account](https://github.com/join)!
 
 ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
 
-5. If you update categories run: `npx doctoc --title '**Contents**' .`
+5. If you update categories run: `npx doctoc --title '## Contents' README.md`
 
 6. Say why you're proposing the changes, and then click on "Propose file change".
 
