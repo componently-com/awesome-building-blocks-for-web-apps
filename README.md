@@ -1,6 +1,6 @@
 # Awesome Web Building Blocks
 
-#### Curated list of Building blocks for Web Applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)
+#### Curated list of Building Blocks for Web Applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
