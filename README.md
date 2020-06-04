@@ -26,7 +26,6 @@
 - [**Sales Funnel**](#sales-funnel)
 - [**Search**](#search)
 - [**Feature flags**](#feature-flags)
-- [**Full Stack**](#full-stack)
 - [**Other Awesomeness**](#other-awesomeness)
 
 #### UI Elements
@@ -148,9 +147,6 @@
 - [LaunchDarkly](https://launchdarkly.com/)
 - [Rollout](https://rollout.io/)
 - [Split](https://www.split.io/)
-
-#### Full Stack
-- [Appseed](https://appseed.us/app-generator)
 
 #### Other Awesomeness
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
