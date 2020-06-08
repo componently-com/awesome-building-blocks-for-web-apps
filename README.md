@@ -1,6 +1,6 @@
 # Awesome Building Blocks for Web Apps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**Curated list of standalone features to be integrated into web applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components)**
+**Curated list of standalone features to be integrated into web applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list)**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
