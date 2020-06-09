@@ -108,6 +108,7 @@
 ## Form
 - [Static Forms](https://www.staticforms.xyz/) - Simple HTML form for your website.
 - [Form King](https://www.formking.io/) - Easy, fast, secure forms for static websites.
+- [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
 ## Marketing
 - [TrustPulse](https://trustpulse.com/) - Grow your business with honest marketing.
