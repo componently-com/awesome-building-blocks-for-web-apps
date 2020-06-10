@@ -19,7 +19,7 @@
 - [Media](#media)
 - [Form](#form)
 - [Marketing](#marketing)
-- [Change log](#change-log)
+- [Changelog](#changelog)
 - [Telecommunication](#telecommunication)
 - [Privacy](#privacy)
 - [Social Media](#social-media)
@@ -113,7 +113,7 @@
 ## Marketing
 - [TrustPulse](https://trustpulse.com/) - Grow your business with honest marketing.
 
-## Change log
+## Changelog
 - [Beamer](https://www.getbeamer.com) - Update and engage users effortlessly.
 - [Changelogfy](https://changelogfy.com/) - Changelogfy is a software and product release notes tool.
 - [Changefeed](https://changefeed.app/) - A beautiful changelog for your product in seconds.
