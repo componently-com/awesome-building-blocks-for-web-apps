@@ -110,7 +110,7 @@
 - [Cookiefirst](https://cookiefirst.com/) - Cookie Consent Manager.
 - [usercentrics](https://usercentrics.com/) - Compliance & Marketing in Harmony.
 - [Sourcepoint](https://www.sourcepoint.com/) - The privacy management software designed to improve experiences.
-- [PiwikPro](https://piwik.pro/gdpr-consent-manager/) - One place to manage your marketing stack’s compliance.
+- [PiwikPro](https://piwik.pro/gdpr-consent-manager/) - One place to manage your marketing stack's compliance.
 - [Consent Management Provider](https://www.consentmanager.de/) - German management tool for Cookie Consent.
 - [UniConsent](https://www.uniconsent.com/) - Consent Management Platform for GDPR, CCPA, COPPA compliance.
 - [TrustArc](https://trustarc.com/) - TrustArc simplifies privacy management for the CCPA, GDPR, LGPD and 900+ other global regulations.
