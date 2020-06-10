@@ -16,6 +16,7 @@
 - [Chat](#chat)
 - [Monitoring](#monitoring)
 - [Content Management](#content-management)
+- [Consent Management](#consent-management)
 - [Media](#media)
 - [Form](#form)
 - [Marketing](#marketing)
@@ -100,6 +101,23 @@
 
 ## Content Management
 - [Contentful](https://www.contentful.com) - The content platform to build digital at scale.
+
+## Consent Management
+- [Cookiefirst](https://cookiefirst.com/) - Cookie Consent Manager.
+- [usercentrics](https://usercentrics.com/) - Compliance & Marketing in Harmony.
+- [Sourcepoint](https://www.sourcepoint.com/) - The privacy management software designed to improve experiences.
+- [PiwikPro](https://piwik.pro/gdpr-consent-manager/) - One place to manage your marketing stack’s compliance.
+- [Consent Management Provider](https://www.consentmanager.de/) - German management tool for Cookie Consent.
+- [UniConsent](https://www.uniconsent.com/) - Consent Management Platform for GDPR, CCPA, COPPA compliance.
+- [TrustArc](https://trustarc.com/) - TrustArc simplifies privacy management for the CCPA, GDPR, LGPD and 900+ other global regulations.
+- [Cookiebot](https://www.cookiebot.com/) - Cookie tracking manager.
+- [iubenda](https://www.iubenda.com/) - A 360° solution to make your sites and apps compliant with the law.
+- [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - The Original, Universal Solution For Cookie Compliance Updated To Meet GDPR Requirements.
+- [CCM19](https://www.ccm19.de/) - German Cookie Consent Manager.  
+- [CookieInformation](https://cookieinformation.com/) - Cookie compliance for DSGVO & ePrivacy.
+- [OneTrust CookiePro](https://www.cookiepro.com/) - Centrally Track, Monitor and Update Across Websites and Apps.
+- [React Cookie Consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
+- [React Cookie Banner](https://github.com/buildo/react-cookie-banner) - React Cookie banner which can be automatically dismissed with a scroll.
 
 ## Media
 - [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
