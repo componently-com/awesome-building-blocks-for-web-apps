@@ -87,9 +87,9 @@
 
 ## Notification
 - [Notific](https://notific.io/) - Powerful, complete notification system.
-- [OneSignal](https://onesignal.com/) - Push Notifications Delivered.
-- [WonderPush](https://www.wonderpush.com/) - Unlimited push notifications for iOS, Android and Web.
-- [VWO Engage](https://vwo.com/engage/push-notifications/) - Engage lost visitors and drive them back to your website with personalized notifications they will love.
+- [OneSignal](https://onesignal.com/) - Push notifications delivered.
+- [WonderPush](https://www.wonderpush.com/) - Unlimited push notifications for iOS, Android and web.
+- [VWO Engage](https://vwo.com/engage/push-notifications/) - Engage lost visitors and drive them back to your website with personalized notifications.
 - [Signalize](https://signalize.com/) - Data-driven web and mobile push notifications.
 
 ## Social
@@ -113,29 +113,29 @@
 - [Contentful](https://www.contentful.com) - The content platform to build digital at scale.
 
 ## Consent Management
-- [Cookiefirst](https://cookiefirst.com/) - Cookie Consent Manager.
-- [usercentrics](https://usercentrics.com/) - Compliance & Marketing in Harmony.
+- [Cookiefirst](https://cookiefirst.com/) - Cookie consent manager.
+- [usercentrics](https://usercentrics.com/) - Compliance & marketing in harmony.
 - [Sourcepoint](https://www.sourcepoint.com/) - The privacy management software designed to improve experiences.
 - [PiwikPro](https://piwik.pro/gdpr-consent-manager/) - One place to manage your marketing stack's compliance.
 - [Consent Management Provider](https://www.consentmanager.de/) - German management tool for Cookie Consent.
-- [UniConsent](https://www.uniconsent.com/) - Consent Management Platform for GDPR, CCPA, COPPA compliance.
-- [TrustArc](https://trustarc.com/) - TrustArc simplifies privacy management for the CCPA, GDPR, LGPD and 900+ other global regulations.
+- [UniConsent](https://www.uniconsent.com/) - Consent management platform for GDPR, CCPA, COPPA compliance.
+- [TrustArc](https://trustarc.com/) - Simplifies privacy management for the CCPA, GDPR, LGPD and 900+ other global regulations.
 - [Cookiebot](https://www.cookiebot.com/) - Cookie tracking manager.
-- [iubenda](https://www.iubenda.com/) - A 360° solution to make your sites and apps compliant with the law.
-- [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - The Original, Universal Solution For Cookie Compliance Updated To Meet GDPR Requirements.
-- [CCM19](https://www.ccm19.de/) - German Cookie Consent Manager.  
+- [iubenda](https://www.iubenda.com/) - Make your sites and apps compliant with the law.
+- [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - Cookie and GDPR compliance.
+- [CCM19](https://www.ccm19.de/) - German cookie consent manager.  
 - [CookieInformation](https://cookieinformation.com/) - Cookie compliance for DSGVO & ePrivacy.
-- [OneTrust CookiePro](https://www.cookiepro.com/) - Centrally Track, Monitor and Update Across Websites and Apps.
-- [React Cookie Consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
-- [React Cookie Banner](https://github.com/buildo/react-cookie-banner) - React Cookie banner which can be automatically dismissed with a scroll.
+- [CookiePro](https://www.cookiepro.com/) - Compliance support across all major privacy regulations and frameworks.
+- [React Cookie Consent](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
+- [React Cookie Banner](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ## Media
 - [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
-- [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/) - Client-side JavaScript library which allows you to create a new player in Spotify Connect and play any audio track from Spotify in the browser via Encrypted Media Extensions.
+- [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/) - Client-side JavaScript library which allows you to create a new player in Spotify Connect and play any audio track from Spotify in the browser via encrypted media extensions.
 
 ## Form
 - [Static Forms](https://www.staticforms.xyz/) - Simple HTML form for your website.
-- [Form King](https://www.formking.io/) - Easy, fast, secure forms for static websites.
+- [Form King](https://www.formking.io/) - Fast and secure forms for static websites.
 - [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
 ## Marketing
