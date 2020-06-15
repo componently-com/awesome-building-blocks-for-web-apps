@@ -1,6 +1,12 @@
 # Awesome Building Blocks for Web Apps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**Curated list of standalone features to be integrated into web applications - [componently.com](https://www.componently.com/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list)**
+**Curated list of standalone features to be integrated into web applications.**
+
+<hr>
+
+[componently.com](https://www.componently.com/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) is a marketplace where developers can search, compare and integrate web application building blocks.
+
+<hr>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
