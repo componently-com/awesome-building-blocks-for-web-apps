@@ -1,4 +1,4 @@
-# Awesome Building Blocks for Web Apps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Building Blocks for Web Apps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Here%27s%20a%20list%20of%20standalone%20features%20you%20can%20integrate%20into%20your%20web%20app&url=https://github.com/componently-com/awesome-building-blocks-for-web-apps&via=componently&hashtags=webdev,componently,react,blocks,developers)
 
 **Curated list of standalone features to be integrated into web applications.**
 
