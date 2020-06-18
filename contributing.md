@@ -6,7 +6,7 @@
 - Can be free or payed.
 - Use the following format: `[package](link) - Description of new item.`
 - Watch for casing and spelling.
-- Describe what the tool is doing. No marketing slogans. Avoid marketing words such as: easy, simple, beautiful, premium, powerful, amazing. E.g. instead of "Create XYZ", use "[Kind of tool] to create XYZ".
+- Describe what the tool is doing. No marketing slogans. E.g. instead of "Create XYZ", use "[Kind of tool] to create XYZ". Avoid marketing words such as: easy, simple, beautiful, premium, powerful, amazing.
 - Avoid subjective words like "smaller", "bigger".
 - Avoid starting with "A" or "An".
 - Avoid using "your" (e.g. "for your website" => "for websites", "back to your website" => "back to the website").
