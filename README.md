@@ -28,9 +28,7 @@
 - [Marketing](#marketing)
 - [Changelog](#changelog)
 - [Telecommunication](#telecommunication)
-- [Privacy](#privacy)
 - [Social Media](#social-media)
-- [Sales Funnel](#sales-funnel)
 - [Search](#search)
 - [Feature flags](#feature-flags)
 - [Related awesome-lists](#related-awesome-lists)
@@ -40,142 +38,123 @@
 ## UI Elements
 
 - [Tailwind UI](https://tailwindui.com/) - UI components, by the creators of Tailwind CSS.
-- [Webix](https://webix.com/) - JavaScript UI library and framework for speeding up web development.
+- [Webix](https://webix.com/) - JavaScript UI library and framework for displaying data in different ways.
 - [Highcharts](https://www.highcharts.com/) - Interactive charts for web.
 - [Webatoms](https://www.webatoms.in) - JavaScript bridge for Xamarin.Forms.
-- [Creative Tim](https://www.creative-tim.com/) - Fully coded UI tools to create web and mobile apps.
-- [Syncfusion](https://www.syncfusion.com/) - UI component suite for building web, desktop, and mobile apps.
+- [Creative Tim](https://www.creative-tim.com/) - Themes for React, Angular, Vue, Lavarel and HTML5.
+- [Syncfusion](https://www.syncfusion.com/) - Data visualization components and PDF Viewer.
 - [CureUI](https://coreui.io/pro/vue) - Vue admin template.
-- [UIfort](https://uifort.com/) - UI design systems to improve productivity.
-- [Sematic UI](https://semantic-ui.com/) - User interface is the language of the web.
-- [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Create websites in minutes.
-- [Froala Design Blocks](https://froala.com/design-blocks/) - Over 170 responsive design blocks for web or mobile apps.
+- [UIfort](https://uifort.com/) - UI design systems for all major frontend frameworks.
+- [Sematic UI](https://semantic-ui.com/) - Open source UI component library for React, Meteor, Ember and Angular.
+- [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Design blocks for web or mobile apps.
 - [Themesberg](https://themesberg.com) - Bootstrap templates, themes and UI kits.
-- [Treact](https://treact.owaiskhan.me/) - React templates for every need.
+- [Treact](https://treact.owaiskhan.me/) - React templates for landing pages, built on Tailwind CSS.
 
 ## Exit Intent Popup
-- [Wisepops](https://wisepops.com/) - Create contextual popups, banners and bars for mobile and desktop visitors.
-- [Listagram](https://www.listagram.com) - Interactive opt-in form in less than 30 minutes.
-- [Poptin](https://www.poptin.com) - Engaging popups and forms for websites in minutes.
-- [Sleeknote's Exit Intent Popup](https://sleeknote.com/exit-intent-popup) - Create high-converting exit-intent popups.
+- [Wisepops](https://wisepops.com/) - Contextual popups, banners and bars for mobile and desktop visitors.
+- [Listagram](https://www.listagram.com) - Interactive opt-in form for collecting email addresses.
+- [Poptin](https://www.poptin.com) - Popups and forms that can be integrated anywhere in the website.
 
 ## Auth
-- [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications.
-- [Firebase](https://firebase.google.com) - Build apps fast, without managing infrastructure.
-- [Okta](https://www.okta.com/) - One trusted platform to secure every identity in organizations, including workforce and customers.
-- [Onelogin](https://www.onelogin.com/) - Securing the global remote workforce.
-- [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/#security) - Universal platform to manage and secure identities.
-- [AWS cognito](https://aws.amazon.com/cognito/) - User sign-up, sign-in, and access control.
-- [SecureAuth](https://www.secureauth.com/products/identity-platform) - Identity platform focused on security and user experience.
+- [Auth0](https://auth0.com/) - Authentication management with native support for Angular, React and VueJS.
+- [Firebase](https://firebase.google.com) - PaaS from Google, including authentication management.
+- [Okta](https://www.okta.com/) - Authentication and Authorization solution with support for Angular, React and VueJS.
+- [Onelogin](https://www.onelogin.com/) - Authentication focussed on company internal applications.
+- [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/#security) - Authentication management in Azure, based on Microsoft accounts.
+- [AWS Cognito](https://aws.amazon.com/cognito/) - AWS authentication management. Frontend integration is part of [AWS Amplify](https://aws.amazon.com/de/amplify/).
 
 ## Booking
-- [Calendly](https://calendly.com/) - Schedule meetings without the back-and-forth emails.
-- [Zoho Bookings](https://www.zoho.com/bookings/) - Online scheduler for offering the best consultations.
-- [Acuity Scheduling](https://acuityscheduling.com/) - Online assistant, working 24/7 to fill schedules.
-- [10to8](https://10to8.com/) - Making appointments happen.
-- [SuperSaaS](https://www.supersaas.com/) - Appointment scheduling for every situation.
-- [SimplyBook.Me](https://simplybook.me/) - Online booking system for all service based industries.
-- [OnceHub](https://www.oncehub.com/) - Schedule meetings without the back-and-forth.
-- [Wix Bookings](https://www.wix.com/online/booking-system) - Showcase services, get booked and paid online, manage everything all from one place.
+- [Calendly](https://calendly.com/) - Stand-alone booking solution.
+- [Zoho Bookings](https://www.zoho.com/bookings/) - Online scheduler integrated into Zoho Suite.
+- [Acuity Scheduling](https://acuityscheduling.com/) - Appointment scheduling with extensive API.
+- [10to8](https://10to8.com/) - Booking tool with many features in the free tier.
+- [SuperSaaS](https://www.supersaas.com/) - Appointment scheduling with focus on group scheduling.
+- [SimplyBook.Me](https://simplybook.me/) - Booking tool with its own booking directory.
+- [OnceHub](https://www.oncehub.com/) - Scheduling via ScheduleOnce and meeting management via InviteOnce.  
 - [YouCanBookMe](https://youcanbook.me/) - Online scheduling for teams.
-- [OnSched](https://www.onsched.com/) - Scheduling API for marketplaces & applications, who want to grow faster.
-- [vCita](https://vcita.com/) - Manage clients, appointments & payments from one single app.
-- [AppointmentPlus](https://www.appointmentplus.com/) - Appointment scheduling software that's built to scale.
-- [Setster](https://www.setster.com/) - Transforming scheduling challenges into actionable logic with a friendly user experience.
-- [Booxi](https://www.booxi.com/) - Smart booking solutions that work for everyone.
-- [BookitLive](https://www.bookitlive.net/) - Online booking software for businesses big and small.
+- [OnSched](https://www.onsched.com/) - Scheduling API for marketplaces & applications.
+- [AppointmentPlus](https://www.appointmentplus.com/) - Appointment scheduling with coupons.
+- [Booxi](https://www.booxi.com/) - Booking and online directory components.
 
 ## Notification
-- [Notific](https://notific.io/) - Powerful, complete notification system.
-- [OneSignal](https://onesignal.com/) - Push notifications delivered.
-- [WonderPush](https://www.wonderpush.com/) - Unlimited push notifications for iOS, Android and web.
-- [VWO Engage](https://vwo.com/engage/push-notifications/) - Engage lost visitors and drive them back to the website with personalized notifications.
-- [Signalize](https://signalize.com/) - Data-driven web and mobile push notifications.
+- [OneSignal](https://onesignal.com/) - Mobile and web notifications.
+- [Notific](https://notific.io/) - Notifications including a PHP SDK.
+- [WonderPush](https://www.wonderpush.com/) - Notifications focused on speed.
+- [VWO Engage](https://vwo.com/engage/push-notifications/) - Notifications as part of a larger marketing suite.
+- [Signalize](https://signalize.com/) - Free notifications with paid analytics add on.
 
 ## Social
-- [Stream](https://getstream.io/) - Enterprise grade feed & chat APIs.
--	[GetSocial](https://www.getsocial.im) - The ultimate way to boost engagement, retention and acquisition for mobile apps.
+- [Stream](https://getstream.io/) - Activity feed & chat APIs.
 
 ## Chat Bot
-- [Fresh chat](https://www.freshworks.com/live-chat-software/) - Engage and delight customers wherever they are - web, mobile and social messengers.
+- [Fresh chat](https://www.freshworks.com/live-chat-software/) - Chatbot in Freshworks support suite.
 - [Tiledesh](https://www.tiledesk.com/) - AI-powered live chat.
 
 ## Chat
-- [Daily.co](https://www.daily.co/) - Ship 1-click video chat faster and smarter.
+- [Daily.co](https://www.daily.co/) - Video chat.
 
 ## Monitoring
-- [Sentry](https://sentry.io/for/vue) - Debug Vue apps and prevent crashes across the entire stack.
-- [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting) - Monitor and fix production errors with ease.
-- [Honeybadger](https://www.honeybadger.io/) - Zero-instrumentation, 360 degree coverage of errors, outages and service degradation.
-- [Rollbar](https://rollbar.com/) - Deploy with confidence, more often.
+- [Sentry](https://sentry.io/) - Full-stack error monitoring with release management included.
+- [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting) - Error monitoring as part of the Raygun suite.
+- [Honeybadger](https://www.honeybadger.io/) - Error, uptime and check-in monitoring. 
+- [Rollbar](https://rollbar.com/) - Error monitoring with the ability to replay HTTP requests that caused errors.
 
 ## Content Management
-- [Contentful](https://www.contentful.com) - The content platform to build digital at scale.
+- [Contentful](https://www.contentful.com) - Headless content management system.
 
 ## Consent Management
 - [Cookiefirst](https://cookiefirst.com/) - Cookie consent manager.
-- [usercentrics](https://usercentrics.com/) - Compliance & marketing in harmony.
-- [Sourcepoint](https://www.sourcepoint.com/) - The privacy management software designed to improve experiences.
-- [PiwikPro](https://piwik.pro/gdpr-consent-manager/) - One place to manage the marketing stack's compliance.
+- [usercentrics](https://usercentrics.com/) - Compliance manager that can be implemented as part of existing pages.
+- [Sourcepoint](https://www.sourcepoint.com/) - Compliance management as part of a suite including also ad blocker recovery.
+- [PiwikPro](https://piwik.pro/gdpr-consent-manager/) - Compliance management as part of an analytics tool.
 - [Consent Management Provider](https://www.consentmanager.de/) - German management tool for Cookie Consent.
 - [UniConsent](https://www.uniconsent.com/) - Consent management platform for GDPR, CCPA, COPPA compliance.
-- [TrustArc](https://trustarc.com/) - Simplifies privacy management for the CCPA, GDPR, LGPD and 900+ other global regulations.
+- [TrustArc](https://trustarc.com/) - Privacy management for the CCPA, GDPR, LGPD and 900+ other global regulations.
 - [Cookiebot](https://www.cookiebot.com/) - Cookie tracking manager.
-- [iubenda](https://www.iubenda.com/) - Make sites and apps compliant with the law.
-- [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - Cookie and GDPR compliance.
+- [iubenda](https://www.iubenda.com/) - Consent management and terms and conditions generator.
+- [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - Smaller Cookie and GDPR compliance product.
 - [CCM19](https://www.ccm19.de/) - German cookie consent manager.  
-- [CookieInformation](https://cookieinformation.com/) - Cookie compliance for DSGVO & ePrivacy.
-- [CookiePro](https://www.cookiepro.com/) - Compliance support across all major privacy regulations and frameworks.
+- [CookieInformation](https://cookieinformation.com/) - Focus on compliance reporting via a dashboard.
+- [CookiePro](https://www.cookiepro.com/) - Cookie management as part of a privacy management solution.
 - [React Cookie Consent](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
 - [React Cookie Banner](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ## Media
-- [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make video possible for every development team.
+- [Mux](https://mux.com/) - Stream hosted and live videos.
 - [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/) - Client-side JavaScript library which allows you to create a new player in Spotify Connect and play any audio track from Spotify in the browser via encrypted media extensions.
 
 ## Form
-- [Static Forms](https://www.staticforms.xyz/) - HTML form for websites.
-- [Form King](https://www.formking.io/) - Fast and secure forms for static websites.
+- [Static Forms](https://www.staticforms.xyz/) - Form that sends its results to your email.
+- [Form King](https://www.formking.io/) - Form that displays its results in a dashboard.
 - [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
 ## Marketing
-- [TrustPulse](https://trustpulse.com/) - Grow businesses with honest marketing.
+- [TrustPulse](https://trustpulse.com/) - Shows recent buyers on your website.
 
 ## Changelog
-- [Beamer](https://www.getbeamer.com) - Update and engage users effortlessly.
-- [Changelogfy](https://changelogfy.com/) - Changelogfy is a software and product release notes tool.
-- [Changefeed](https://changefeed.app/) - Changelog for products in seconds.
-- [Release notes](https://releasenotes.io) - Craft engaging release notes to keep customers and stakeholders up to date, or as a marketing tool to convert more.
-- [Headway](https://headwayapp.co/) - Easiest way to keep customers in the loop about products.
-- [Canny's Changelog](https://canny.io/features/changelog) - Announce product updates.
-- [ProductFlare's Changelog](https://www.productflare.com/changelog) - Keep users updated, engaged and increase user retention with real-time product updates.
-- [ProductFeed](https://productfeed.app) - Retain users and keep them updated.
-- [Changes](https://changes.blue) - Keep users in the loop about product updates with a modern changelog that grows with you.
+- [Beamer](https://www.getbeamer.com) - Combination of push notifications and changelog management.
+- [Changelogfy](https://changelogfy.com/) - A product release notes tool.
+- [Changefeed](https://changefeed.app/) - Changelog as stand-alone page or embeddable widget.
+- [Canny's Changelog](https://canny.io/features/changelog) - Combines changelog with product roadmaps.
+- [ProductFlare's Changelog](https://www.productflare.com/changelog) - Changelog widget around a product team task management system.
+- [Changes](https://changes.blue) - Changelog building kit.
 
 ## Telecommunication
-- [Vonage](https://www.vonage.com/) - Flexible and scalable voice, messaging, video and data capabilities across Unified Communications, Contact Centers and Communications APIs.
-
-## Privacy
-- [Skyflow](https://www.skyflow.com/) - API for privacy.
+- [Vonage](https://www.vonage.com/) - Voice, messaging, video and data capabilities across unified communications, contact centers and communications APIs.
 
 ## Social Media
-- [AddThis](https://www.addthis.com/) - Turn visitors into engaged customers.
-- [ShareThis](https://sharethis.com/) - Grow audience and keep them engaged.
-- [AddToAny](https://www.addtoany.com/) - Universal sharing.
-- [WarefarePlugins](https://warfareplugins.com/) - Social sharing for WordPress.
-
-## Sales Funnel
-- [Click Funnels](https://www.clickfunnels.com/) - Create sales funnels that convert visitors into leads and then customers.
-- [CartFlows](https://cartflows.com/) - Get more leads, increase conversions, & maximize profits.
+- [AddThis](https://www.addthis.com/) - Social sharing buttons, available on AMPs.
+- [ShareThis](https://sharethis.com/) - Social sharing buttons.
+- [AddToAny](https://www.addtoany.com/) - Sharing buttons for many different target services.
 
 ## Search
-- [Algolia](https://www.algolia.com/) - Make every search releavnt, immersive, optimized, engaing, intelligent, personalized, business-driven, etc.
+- [Algolia](https://www.algolia.com/) - Search for your application.
 
 ## Feature flags
-- [Optimizely's Rollouts](https://www.optimizely.com/rollouts) - Ship faster and prove value with less risk.
-- [LaunchDarkly](https://launchdarkly.com/) - Manage features at any scale.
-- [Rollout](https://rollout.io/) - Progressively deliver features to users with confidence, in real-time.
-- [Split](https://www.split.io/) - Confidently release features as fast as you develop them.
+- [Optimizely's Rollouts](https://www.optimizely.com/rollouts) - Feature flags combined with A/B testing.
+- [LaunchDarkly](https://launchdarkly.com/) - Feature management with multiple integrations in CI servers and ticketing systems.
+- [Split](https://www.split.io/) - Another feature management with multiple integrations in CI servers and ticketing systems.
+- [Rollout](https://rollout.io/) - Feature management focusing on segmented roll-out of features.
 
 ## Related awesome-lists
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
