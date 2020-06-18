@@ -6,10 +6,12 @@
 - Can be free or payed.
 - Use the following format: `[package](link) - Description of new item.`
 - Watch for casing and spelling.
-- Describe what the tool is doing. No marketing slogans. Avoid subjective wording such as: easy, simple, beautiful, premium, powerful, amazing.
+- Describe what the tool is doing. No marketing slogans. Avoid subjective wording such as: easy, simple, beautiful, premium, powerful, amazing. E.g. instead of "Create XYZ", use "[Kind of tool] to create XYZ".
+- Avoid subjective words like "smaller", "bigger".
 - Avoid starting with "A" or "An".
 - Avoid using "your" (e.g. "for your website" => "for websites", "back to your website" => "back to the website").
-- Keep consistent tech spelling: JavaScript, React, Vue, Angular
+- Avoid numbers, they will get outdated.
+- Keep consistent tech spelling: JavaScript, React, Vue, Angular.
 
 ## How
 
