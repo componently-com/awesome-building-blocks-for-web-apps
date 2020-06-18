@@ -45,7 +45,7 @@
 - [Syncfusion](https://www.syncfusion.com/) - Data visualization components and PDF Viewer.
 - [CureUI](https://coreui.io/pro/vue) - Vue admin template.
 - [UIfort](https://uifort.com/) - UI design systems for all major frontend frameworks.
-- [Sematic UI](https://semantic-ui.com/) - Open source UI component library for React, Meteor, Ember and Angular.
+- [Semantic UI](https://semantic-ui.com/) - Open source UI component library for React, Meteor, Ember and Angular.
 - [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Design blocks for web or mobile apps.
 - [Themesberg](https://themesberg.com) - Bootstrap templates, themes and UI kits.
 - [Treact](https://treact.owaiskhan.me/) - React templates for landing pages, built on Tailwind CSS.
