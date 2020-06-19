@@ -149,6 +149,7 @@
 
 ## Search
 - [Algolia](https://www.algolia.com/) - Search for your application.
+- [Search UI](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
 
 ## Feature flags
 - [Optimizely's Rollouts](https://www.optimizely.com/rollouts) - Feature flags combined with A/B testing.
