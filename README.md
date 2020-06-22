@@ -43,7 +43,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Webatoms](https://www.webatoms.in) - JavaScript bridge for Xamarin.Forms.
 - [Creative Tim](https://www.creative-tim.com/) - Themes for React, Angular, Vue, Lavarel and HTML5.
 - [Syncfusion](https://www.syncfusion.com/) - Data visualization components and PDF Viewer.
-- [CureUI](https://coreui.io/pro/vue) - Vue admin template.
+- [CoreUI](https://coreui.io/pro/vue) - Vue admin template.
 - [UIfort](https://uifort.com/) - UI design systems for all major frontend frameworks.
 - [Semantic UI](https://semantic-ui.com/) - Open source UI component library for React, Meteor, Ember and Angular.
 - [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Design blocks for web or mobile apps.
