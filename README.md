@@ -31,6 +31,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Social Media](#social-media)
 - [Search](#search)
 - [Feature flags](#feature-flags)
+- [Reviews](#reviews)
 - [Related awesome-lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -156,6 +157,9 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [LaunchDarkly](https://launchdarkly.com/) - Feature management with multiple integrations in CI servers and ticketing systems.
 - [Split](https://www.split.io/) - Another feature management with multiple integrations in CI servers and ticketing systems.
 - [Rollout](https://rollout.io/) - Feature management focusing on segmented roll-out of features.
+
+## Reviews
+- [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
 
 ## Related awesome-lists
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
