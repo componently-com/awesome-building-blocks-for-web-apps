@@ -127,7 +127,6 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Form
 - [Static Forms](https://www.staticforms.xyz/) - Form that sends its results to your email.
-- [Form King](https://www.formking.io/) - Form that displays its results in a dashboard.
 - [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
 ## Marketing
