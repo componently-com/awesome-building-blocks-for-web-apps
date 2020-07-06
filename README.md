@@ -86,6 +86,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Social
 - [Stream](https://getstream.io/) - Activity feed & chat APIs.
+- [EmbedSocial's embedfeed](https://embedsocial.com/products/embedfeed/) - Social media aggregator.
 
 ## Chat Bot
 - [Fresh chat](https://www.freshworks.com/live-chat-software/) - Chatbot in Freshworks support suite.
