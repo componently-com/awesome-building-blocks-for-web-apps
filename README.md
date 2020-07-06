@@ -161,6 +161,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Reviews
 - [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
+- [ReviewsOnMyWebsite](https://reviewsonmywebsite.com/) - Collect, monitor and display customer reviews.
 
 ## Related awesome-lists
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
