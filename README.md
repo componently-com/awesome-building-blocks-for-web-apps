@@ -50,7 +50,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Design blocks for web or mobile apps.
 - [Themesberg](https://themesberg.com) - Bootstrap templates, themes and UI kits.
 - [Treact](https://treact.owaiskhan.me/) - React templates for landing pages, built on Tailwind CSS.
-- [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS
+- [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS.
 
 ## Exit Intent Popup
 - [Wisepops](https://wisepops.com/) - Contextual popups, banners and bars for mobile and desktop visitors.
@@ -72,7 +72,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [10to8](https://10to8.com/) - Booking tool with many features in the free tier.
 - [SuperSaaS](https://www.supersaas.com/) - Appointment scheduling with focus on group scheduling.
 - [SimplyBook.Me](https://simplybook.me/) - Booking tool with its own booking directory.
-- [OnceHub](https://www.oncehub.com/) - Scheduling via ScheduleOnce and meeting management via InviteOnce.  
+- [OnceHub](https://www.oncehub.com/) - Scheduling via ScheduleOnce and meeting management via InviteOnce.
 - [YouCanBookMe](https://youcanbook.me/) - Online scheduling for teams.
 - [OnSched](https://www.onsched.com/) - Scheduling API for marketplaces & applications.
 - [AppointmentPlus](https://www.appointmentplus.com/) - Appointment scheduling with coupons.
@@ -99,7 +99,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 ## Monitoring
 - [Sentry](https://sentry.io/) - Full-stack error monitoring with release management included.
 - [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting) - Error monitoring as part of the Raygun suite.
-- [Honeybadger](https://www.honeybadger.io/) - Error, uptime and check-in monitoring. 
+- [Honeybadger](https://www.honeybadger.io/) - Error, uptime and check-in monitoring.
 - [Rollbar](https://rollbar.com/) - Error monitoring with the ability to replay HTTP requests that caused errors.
 
 ## Content Management
@@ -116,7 +116,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Cookiebot](https://www.cookiebot.com/) - Cookie tracking manager.
 - [iubenda](https://www.iubenda.com/) - Consent management and terms and conditions generator.
 - [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - Smaller Cookie and GDPR compliance product.
-- [CCM19](https://www.ccm19.de/) - German cookie consent manager.  
+- [CCM19](https://www.ccm19.de/) - German cookie consent manager.
 - [CookieInformation](https://cookieinformation.com/) - Focus on compliance reporting via a dashboard.
 - [CookiePro](https://www.cookiepro.com/) - Cookie management as part of a privacy management solution.
 - [React Cookie Consent](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
