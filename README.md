@@ -50,6 +50,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - Design blocks for web or mobile apps.
 - [Themesberg](https://themesberg.com) - Bootstrap templates, themes and UI kits.
 - [Treact](https://treact.owaiskhan.me/) - React templates for landing pages, built on Tailwind CSS.
+- [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS
 
 ## Exit Intent Popup
 - [Wisepops](https://wisepops.com/) - Contextual popups, banners and bars for mobile and desktop visitors.
