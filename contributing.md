@@ -3,7 +3,7 @@
 ## What
 
 - Standalone features for web.
-- Can be free or payed.
+- Can be free or paid.
 - Use the following format: `[package](link) - Description of new item.`
 - Watch for casing and spelling.
 - Describe what the tool is doing. No marketing slogans. E.g. instead of "Create XYZ", use "[Kind of tool] to create XYZ". Avoid marketing words such as: easy, simple, beautiful, premium, powerful, amazing.
