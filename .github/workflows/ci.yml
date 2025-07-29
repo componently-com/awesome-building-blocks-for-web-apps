@@ -1,19 +1,12 @@
 name: CI
-
-on: [push]
-
-env:
-  node_version: "12.x"
-
+on:
+  pull_request:
+    branches: [main]
 jobs:
-  lint:
+  Awesome_Lint:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-    - uses: actions/checkout@v1
-    - name: Setup Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ env.node_version }}
-    - name: Lint
-      run: npx awesome-lint
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
