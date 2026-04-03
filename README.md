@@ -171,3 +171,4 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
+- [TaleForge](https://www.tale-forge.com) - Creative writing platform with rich text editor, manga panel creator, and screenplay formatter. Built with Next.js and TipTap.
