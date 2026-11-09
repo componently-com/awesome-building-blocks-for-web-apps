@@ -51,6 +51,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Themesberg](https://themesberg.com) - Bootstrap templates, themes and UI kits.
 - [Treact](https://treact.owaiskhan.me/) - React templates for landing pages, built on Tailwind CSS.
 - [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS.
+- [Static AI Block](https://aiblock.onetagai.com/) - Copy-paste AI blocks for static sites (ask this page, summarize, translate, FAQ bot), in plain HTML and JavaScript.
 
 ## Exit Intent Popup
 - [Wisepops](https://wisepops.com/) - Contextual popups, banners and bars for mobile and desktop visitors.
