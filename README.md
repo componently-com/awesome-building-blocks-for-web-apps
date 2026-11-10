@@ -32,6 +32,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Search](#search)
 - [Feature flags](#feature-flags)
 - [Reviews](#reviews)
+- [Calculators](#calculators)
 - [Related awesome-lists](#related-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -166,6 +167,9 @@ If you like these building blocks, check out [componently.com](https://www.compo
 ## Reviews
 - [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
 - [ReviewsOnMyWebsite](https://reviewsonmywebsite.com/) - Collect, monitor and display customer reviews.
+
+## Calculators
+- [Practical Web Tools](https://github.com/CobraPi/embeddable-calculator-widgets) - Free embeddable calculator widgets (mortgage, loan, compound interest, BMI, TDEE, percentage, due date, countdown, word counter) as framework-free scripts; 400+ more calculators embeddable from practicalwebtools.com.
 
 ## Related awesome-lists
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
